@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="roll_button">Roll</string>
+    <string name="_1_textView">1</string>
+</resources>
